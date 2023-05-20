@@ -1,6 +1,0 @@
-This project was done as an alternative to backtesting software. Although it does not provide the full accessories which the software provides, it is a fairly cheap and easily affordable option. 
-If you are like me who at some point hit a roadblock in your trading journey, running out of funds and blowing accounts due to inadequate studying and backtesting and still can't afford back-testing software then this is for you. 
-
-It is easy to use and understand, all you need to do is demo trade and record the trades based on the parameters given, and the workbook would help calculate all useful parameters such as win rate, losing rate, best trading day, worst trading day, etc.
- 
-It can also be edited to suit your needs and trading style. Although using this software could be slow as you don't usually have access to previous data from the likes of trading view, I still think it would be a good recommendation as it would help in building confidence while forward testing.
